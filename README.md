@@ -1,7 +1,5 @@
 This project is based on envconfig. See NOTES.md for license details.
 
-Here is the installation and usage guide for the `tenv` library, based on the example code you provided:
-
 ---
 
 # tenv - Library Installation and Usage
